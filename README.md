@@ -1,2 +1,2 @@
 # Newsletter-signup
-my personal Newsletter-signup website
+Newsletter-signup website
